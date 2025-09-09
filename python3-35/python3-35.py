@@ -96,4 +96,4 @@ display('hello world')
 def birthday(name='',age=0):
     print(f'Happy birthday {name} you are {age} years old')
 
-birthday(name='Bryan',age=46)
+birthday(name='syg',age=18)
